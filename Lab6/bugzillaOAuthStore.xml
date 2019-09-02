@@ -1,0 +1,25 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://eclipse.org/lyo/server/oauth#">
+  <j.0:Consumer>
+    <j.0:consumerName>v-pt-unitedev1:9443/jts</j.0:consumerName>
+    <j.0:consumerKey>da9593ba-93ef-4211-9e87-fe82ac345974</j.0:consumerKey>
+    <j.0:consumerSecret>Y2hhcml0aA==</j.0:consumerSecret>
+    <j.0:provisional>true</j.0:provisional>
+    <j.0:trusted>true</j.0:trusted>
+  </j.0:Consumer>
+  <j.0:Consumer>
+    <j.0:consumerName>v-pt-uniteslone:9443/jts</j.0:consumerName>
+    <j.0:consumerKey>6003b1b3-815a-4a8a-a343-139d1121b510</j.0:consumerKey>
+    <j.0:consumerSecret>SW5jcmVtZW50TWFkaQ==</j.0:consumerSecret>
+    <j.0:provisional>true</j.0:provisional>
+    <j.0:trusted>true</j.0:trusted>
+  </j.0:Consumer>
+  <j.0:Consumer>
+    <j.0:consumerName>v-pt-unitedev1:9443/jts</j.0:consumerName>
+    <j.0:consumerKey>6a46bed6-a1e5-485d-b67a-c0e93d6d1c00</j.0:consumerKey>
+    <j.0:consumerSecret>Y2hhcml0aA==</j.0:consumerSecret>
+    <j.0:provisional>true</j.0:provisional>
+    <j.0:trusted>true</j.0:trusted>
+  </j.0:Consumer>
+</rdf:RDF>
